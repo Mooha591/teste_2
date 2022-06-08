@@ -1,0 +1,22 @@
+initialiser: git init
+
+( nom de la sauvegarde)
+git commit -m "first commit"
+
+git branch -M main
+
+
+
+(mettre en ligne, actualise la sauvegarde)
+git push 
+
+(récupérer la dernière version du  cod github)
+git-pull
+
+
+
+
+
+hebergement site web gratuit:
+
+https://www.netlify.com/

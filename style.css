@@ -1,3 +1,12 @@
 body {
   background-color: burlywood;
 }
+
+.title-mid {
+  color: red;
+  text-transform: capitalize;
+}
+
+.title-mid p {
+  color: blue;
+}
